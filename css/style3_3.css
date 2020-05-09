@@ -299,3 +299,7 @@ body{
         max-width: calc(100%);
     }
 }
+
+img {
+    image-orientation: from-image;
+}
